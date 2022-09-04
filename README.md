@@ -10,7 +10,7 @@ Built using `go1.17.12 linux/amd64`
 The rpc uses standard rpc format, whilst the format should be 
 language independant, it isn't at the moment. The argument and reply
 types are in the constants package of the psstore module.  
-*See the rpc-client/main.go file to get an idea of usage*
+*See the [rpc-client/client.go](https://github.com/sarcXD/rpc-client/blob/main/client.go) file to get an idea of usage*
 
 ## Features
 See [Milestones.md](https://github.com/sarcXD/psstore/blob/main/Milestones.md) for an idea of future features  
