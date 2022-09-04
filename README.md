@@ -13,7 +13,7 @@ types are in the constants package of the psstore module.
 *See the rpc-client/main.go file to get an idea of usage*
 
 ## Features
-See Milestones.md for an idea of future features  
+See [Milestones.md](https://github.com/sarcXD/psstore/blob/main/Milestones.md) for an idea of future features  
 
 ### Developed
 **Basic Ops**
